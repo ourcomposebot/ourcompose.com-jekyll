@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:psc="http://podlove.org/simple-chapters"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:bitlove="http://bitlove.org"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/">
+  <channel>
+    <title>OurComposeCast</title>
+    <link>https://ourcompose.com/jekyll/</link>
+    <language>en-us</language>
+    <description>Open Source Productivity…in the real world
+</description>
+    <lastBuildDate>Sun, 01 May 2022 01:29:20 -0400</lastBuildDate>
+    <managingEditor>support@ourcompose.com (OurCompose Team)</managingEditor>
+    <copyright></copyright>
+    <itunes:author>Compositional Enterprises</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://ourcompose.com/jekyll/assets/logos/CircularLogoTransparent.png"/>
+    <itunes:category text="Technology"></itunes:category>
+    <itunes:owner>
+        <itunes:name>Compositional Enterprises</itunes:name>
+        <itunes:email>admins@compositional.enterprises</itunes:email>
+    </itunes:owner>
+    <image>
+      <title>OurComposeCast</title>
+      <url>https://ourcompose.com/jekyll//assets/logos/CircularLogoTransparent.png</url>
+      <link>https://ourcompose.com/jekyll/</link>
+    </image><item>
+      <itunes:title>Shelving OurCompose</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Shelving OurCompose</title>
+      <link>https://ourcompose.com/jekyll/episodes/2022/episode-45-shelving-ourcompose</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">45</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-45-shelving-ourcompose.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>This week we discuss our thoughts on OurCompose, where we succeeded and failed, and where we are moving forward.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2022/episode-45-shelving-ourcompose">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Shelving OurCompose</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Shelving OurCompose" /></psc:chapters>
+    </item><item>
+      <itunes:title>More Interface</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>More Interface</title>
+      <link>https://ourcompose.com/jekyll/episodes/2022/episode-44-more-interface</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">44</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-44-more-interface.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>This week we discuss Project Zero Security regarding Open Source, FireflyIII's Application Interface, and wrap up with an interview on Salesforce Administration.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2022/episode-44-more-interface">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Intro - News - Updates</p><p>00:14:50 - Integration Discussion - Firefly-III - Application Interface, Other</p><p>00:32:38 - Grab Bag - Interviews of Change - Jared Kirk - Salesforce</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Intro - News - Updates" /><psc:chapter start="00:14:50" title="Integration Discussion - Firefly-III - Application Interface, Other" /><psc:chapter start="00:32:38" title="Grab Bag - Interviews of Change - Jared Kirk - Salesforce" /></psc:chapters>
+    </item><item>
+      <itunes:title>Not Enough Information Yet</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Not Enough Information Yet</title>
+      <link>https://ourcompose.com/jekyll/episodes/2022/episode-43-not-enough-information-yet</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">43</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-43-not-enough-information-yet.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>This week we discuss Google's latest pulled service, Firefly-III's Application interface, and The 4 Hour Work Week.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2022/episode-43-not-enough-information-yet">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Intro - News - Updates</p><p>00:15:50 - Integration Discussion - Firefly-III - Application Interface</p><p>00:29:46 - Grab Bag - The 4 Hour Work Week</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Intro - News - Updates" /><psc:chapter start="00:15:50" title="Integration Discussion - Firefly-III - Application Interface" /><psc:chapter start="00:29:46" title="Grab Bag - The 4 Hour Work Week" /></psc:chapters>
+    </item><item>
+      <itunes:title>Fireflying into a New Service</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Fireflying into a New Service</title>
+      <link>https://ourcompose.com/jekyll/episodes/2022/episode-42-fireflying-into-a-new-service</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">42</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-42-fireflying-into-a-new-service.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>This episode we discuss FireflyIII, Taking Your Thoughts Captive, and news around the community as well as updates with the OurCompose Suite.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2022/episode-42-fireflying-into-a-new-service">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Intro - News - Updates</p><p>00:21:14 - Integration Discussion - FireflyIII - Re-introduction and Accounts</p><p>00:38:08 - Grab Bag - Taking your thoughts captive</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Intro - News - Updates" /><psc:chapter start="00:21:14" title="Integration Discussion - FireflyIII - Re-introduction and Accounts" /><psc:chapter start="00:38:08" title="Grab Bag - Taking your thoughts captive" /></psc:chapters>
+    </item><item>
+      <itunes:title>Rounding Out Rundeck</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Rounding Out Rundeck</title>
+      <link>https://ourcompose.com/jekyll/episodes/2022/episode-41-rounding-out-rundeck</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">41</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-41-rounding-out-rundeck.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>This week we wrap up Rundeck, discuss maintenance and burnout, and wrap up with Goals, what they look like setting them and following through with them.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2022/episode-41-rounding-out-rundeck">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Intro - News - Updates</p><p>00:32:24 - Integration Discussion - Rundeck - CLI and FAQ</p><p>00:54:40 - Grab Bag - Goals, What they look like, Setting Them, Following Through with Them</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Intro - News - Updates" /><psc:chapter start="00:32:24" title="Integration Discussion - Rundeck - CLI and FAQ" /><psc:chapter start="00:54:40" title="Grab Bag - Goals, What they look like, Setting Them, Following Through with Them" /></psc:chapters>
+    </item><item>
+      <itunes:title>CRUD an API</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>CRUD an API</title>
+      <link>https://ourcompose.com/jekyll/episodes/2022/episode-40-crud-an-api</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">40</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-40-crud-an-api.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>This week we discuss self hosting and updates around the ecosystem, the Rundeck API, and coming back from the holidays.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2022/episode-40-crud-an-api">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Intro - News - Updates</p><p>00:35:38 - Integration Discussion - Rundeck - API</p><p>00:50:06 - Grab Bag - Bouncing Back from the Holidays</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Intro - News - Updates" /><psc:chapter start="00:35:38" title="Integration Discussion - Rundeck - API" /><psc:chapter start="00:50:06" title="Grab Bag - Bouncing Back from the Holidays" /></psc:chapters>
+    </item><item>
+      <itunes:title>Whose Job is it Anyway</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Whose Job is it Anyway</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-39-whose-job-is-it-anyway</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">39</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-39-whose-job-is-it-anyway.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>This week's episode we discuss tech ranging everywhere from Vulnerabilities to Rundeck User Management and ACLs, and we wrap up with NFTs.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-39-whose-job-is-it-anyway">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Intro - News - Updates</p><p>00:26:22 - Integration Discussion - Rundeck - User Authentication and ACLs</p><p>00:37:27 - Grab Bag - Neal Stephenson's Metaverse is not a use-case for NFTs</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Intro - News - Updates" /><psc:chapter start="00:26:22" title="Integration Discussion - Rundeck - User Authentication and ACLs" /><psc:chapter start="00:37:27" title="Grab Bag - Neal Stephenson's Metaverse is not a use-case for NFTs" /></psc:chapters>
+    </item><item>
+      <itunes:title>Every Dev Has Their Day</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Every Dev Has Their Day</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-38-every-dev-has-their-day</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">38</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-38-every-dev-has-their-day.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>This week's episode we discuss a host of OurCompose Developments, the ins and outs of Rundeck, and monitoring related to future plans with the OurCompose Suite.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-38-every-dev-has-their-day">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Intro - News - Updates</p><p>00:27:46 - Integration Discussion - Rundeck - Activity, Nodes and Commands</p><p>00:46:36 - Grab Bag - Monitoring</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Intro - News - Updates" /><psc:chapter start="00:27:46" title="Integration Discussion - Rundeck - Activity, Nodes and Commands" /><psc:chapter start="00:46:36" title="Grab Bag - Monitoring" /></psc:chapters>
+    </item><item>
+      <itunes:title>Dolibarr for This, Dolibarr for That</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Dolibarr for This, Dolibarr for That</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-37-dolibarr-for-this-dolibarr-for-that</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">37</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-37-dolibarr-for-this-dolibarr-for-that.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>This week we discuss DDOS attacks via Gitlab Servers, more cloud services being down, dolibarr and why every programmer aspires to be Linus Torvalds.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-37-dolibarr-for-this-dolibarr-for-that">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Intro - News - Updates</p><p>00:30:15 - Integration Discussion - Dolibarr - Overview</p><p>00:42:52 - Grab Bag - All Programmers Aspire to be Linus Torvalds</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Intro - News - Updates" /><psc:chapter start="00:30:15" title="Integration Discussion - Dolibarr - Overview" /><psc:chapter start="00:42:52" title="Grab Bag - All Programmers Aspire to be Linus Torvalds" /></psc:chapters>
+    </item><item>
+      <itunes:title>What A SuiteCRM</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>What A SuiteCRM</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-36-what-a-suitecrm</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">36</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-36-what-a-suitecrm.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>In this week's episode we discuss context switching, adding SuiteCRM to the Suite, and Pitching Anything.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-36-what-a-suitecrm">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:00:00 - News/Community Updates</p><p>00:00:00 - OurCompose Developments</p><p>00:35:59 - Integration Discussion - SuiteCRM - Overview</p><p>00:48:04 - Grab Bag - Pitch Anything</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:00:00" title="News/Community Updates" /><psc:chapter start="00:00:00" title="OurCompose Developments" /><psc:chapter start="00:35:59" title="Integration Discussion - SuiteCRM - Overview" /><psc:chapter start="00:48:04" title="Grab Bag - Pitch Anything" /></psc:chapters>
+    </item><item>
+      <itunes:title>Akaunting For a New Service</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Akaunting For a New Service</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-35-akaunting-for-a-new-service</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">35</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-35-akaunting-for-a-new-service.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>With a few new services added to the suite, we are taking a quick break from Rundeck to cover Akaunting and a dive into The Righteous Mind.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-35-akaunting-for-a-new-service">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:17:58 - News/Community Updates</p><p>00:32:28 - OurCompose Developments</p><p>00:33:37 - Integration Discussion - Akaunting - Overview</p><p>00:51:37 - Grab Bag - The Righteous Mind</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:17:58" title="News/Community Updates" /><psc:chapter start="00:32:28" title="OurCompose Developments" /><psc:chapter start="00:33:37" title="Integration Discussion - Akaunting - Overview" /><psc:chapter start="00:51:37" title="Grab Bag - The Righteous Mind" /></psc:chapters>
+    </item><item>
+      <itunes:title>Decking Unemployment</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Decking Unemployment</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-34-decking-unemployment</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">34</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-34-decking-unemployment.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Heavy hitters hit the deck while OurCompose automation runs both on localhost and on Rundeck up and down the yellow brick road with the OZ Principle!</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-34-decking-unemployment">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:45 - Introduction</p><p>00:15:07 - News/Community Updates</p><p>00:20:48 - OurCompose Developments</p><p>00:30:27 - Integration Discussion - Rundeck - Jobs</p><p>01:01:15 - Grab Bag - The OZ Principle</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:45" title="Introduction" /><psc:chapter start="00:15:07" title="News/Community Updates" /><psc:chapter start="00:20:48" title="OurCompose Developments" /><psc:chapter start="00:30:27" title="Integration Discussion - Rundeck - Jobs" /><psc:chapter start="01:01:15" title="Grab Bag - The OZ Principle" /></psc:chapters>
+    </item><item>
+      <itunes:title>Running to the Next Service</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Running to the Next Service</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-33-running-to-the-next-service</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">33</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-33-running-to-the-next-service.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>To cause to learn, the guys present 40,000 books to read, share some recent developments, and move on to talking about a new service, Rundeck!</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-33-running-to-the-next-service">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:45 - Introduction</p><p>00:11:48 - News/Community Updates</p><p>00:20:58 - OurCompose Developments</p><p>00:27:36 - Integration Discussion - Rundeck - Projects</p><p>00:52:47 - Grab Bag - The Seven Laws of the Learner</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:45" title="Introduction" /><psc:chapter start="00:11:48" title="News/Community Updates" /><psc:chapter start="00:20:58" title="OurCompose Developments" /><psc:chapter start="00:27:36" title="Integration Discussion - Rundeck - Projects" /><psc:chapter start="00:52:47" title="Grab Bag - The Seven Laws of the Learner" /></psc:chapters>
+    </item><item>
+      <itunes:title>Guardians of Your Galaxy</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Guardians of Your Galaxy</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-32-guardians-of-your-galaxy</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">32</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-32-guardians-of-your-galaxy.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>The guys drop more news than ever, and go over how to get rid of users, whether you're ProtonMail or Bitwarden, in an Agile manner.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-32-guardians-of-your-galaxy">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:17 - Introduction</p><p>00:22:38 - News/Community Updates</p><p>00:34:31 - OurCompose Developments</p><p>00:45:59 - Integration Discussion - Bitwarden - User Management</p><p>01:06:21 - Grab Bag - Agile Manifesto</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:17" title="Introduction" /><psc:chapter start="00:22:38" title="News/Community Updates" /><psc:chapter start="00:34:31" title="OurCompose Developments" /><psc:chapter start="00:45:59" title="Integration Discussion - Bitwarden - User Management" /><psc:chapter start="01:06:21" title="Grab Bag - Agile Manifesto" /></psc:chapters>
+    </item><item>
+      <itunes:title>Collect and Send</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Collect and Send</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-31-collect-and-send</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">31</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-31-collect-and-send.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>With the help of a rational bit of Scrumban, OurCompose gets new features that even high-budget startups are looking for, like the dashboard, and it's own Ansible collection!</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-31-collect-and-send">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:49 - Introduction</p><p>00:23:19 - News/Community Updates</p><p>00:34:54 - OurCompose Developments</p><p>00:40:51 - Integration Discussion - Bitwarden - Folders, Organizations, and Send</p><p>01:03:54 - Grab Bag - What is Scrumban</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:49" title="Introduction" /><psc:chapter start="00:23:19" title="News/Community Updates" /><psc:chapter start="00:34:54" title="OurCompose Developments" /><psc:chapter start="00:40:51" title="Integration Discussion - Bitwarden - Folders, Organizations, and Send" /><psc:chapter start="01:03:54" title="Grab Bag - What is Scrumban" /></psc:chapters>
+    </item><item>
+      <itunes:title>Nuts and Bolts</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Nuts and Bolts</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-30-nuts-and-bolts</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">30</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-30-nuts-and-bolts.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Despite 99 reasons to NOT get stuff done, the guys show off their latest accomplishments, as well as those in the community, and how scrum purports to provide a framework for all of it.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-30-nuts-and-bolts">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:45 - Introduction</p><p>00:25:15 - News/Community Updates</p><p>00:27:15 - OurCompose Developments</p><p>00:38:37 - Integration Discussion - Bitwarden - Initial Configuration</p><p>01:07:53 - Grab Bag - Scrum, An Agile Implementation</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:45" title="Introduction" /><psc:chapter start="00:25:15" title="News/Community Updates" /><psc:chapter start="00:27:15" title="OurCompose Developments" /><psc:chapter start="00:38:37" title="Integration Discussion - Bitwarden - Initial Configuration" /><psc:chapter start="01:07:53" title="Grab Bag - Scrum, An Agile Implementation" /></psc:chapters>
+    </item><item>
+      <itunes:title>Everything is a Nail</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Everything is a Nail</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-29-everything-is-a-nail</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">29</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-29-everything-is-a-nail.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>As the guys report ramping up their production on OurCompose, they get long-winded talking about Organizational Debt and their new Kanboard setup after taking a dive into Bitwarden's Tools and Reports.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-29-everything-is-a-nail">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:28:30 - News/Community Updates</p><p>00:34:13 - OurCompose Developments</p><p>00:44:04 - Integration Discussion - Bitwarden - Tools and Reports</p><p>01:04:37 - Grab Bag - On Evolving How We Use Our Kanban Boards</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:28:30" title="News/Community Updates" /><psc:chapter start="00:34:13" title="OurCompose Developments" /><psc:chapter start="00:44:04" title="Integration Discussion - Bitwarden - Tools and Reports" /><psc:chapter start="01:04:37" title="Grab Bag - On Evolving How We Use Our Kanban Boards" /></psc:chapters>
+    </item><item>
+      <itunes:title>Living As An Inmate</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Living As An Inmate</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-28-living-as-an-inmate</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">28</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-28-living-as-an-inmate.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Avoiding crippling technical debt, Nexcloud developments charge ahead much like the OurCompose project as Q3 2021 is brought up along with an in-depth look into Bitwarden's application interface!</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-28-living-as-an-inmate">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:27:04 - News/Community Updates</p><p>00:43:20 - OurCompose Developments</p><p>00:45:40 - Integration Discussion - Bitwarden - Application Interface</p><p>01:18:18 - Grab Bag - Active Recall and Spaced Repetition, Keeping Skills Sharp</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:27:04" title="News/Community Updates" /><psc:chapter start="00:43:20" title="OurCompose Developments" /><psc:chapter start="00:45:40" title="Integration Discussion - Bitwarden - Application Interface" /><psc:chapter start="01:18:18" title="Grab Bag - Active Recall and Spaced Repetition, Keeping Skills Sharp" /></psc:chapters>
+    </item><item>
+      <itunes:title>Vaultwarden Securing Your Passwords</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Vaultwarden Securing Your Passwords</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-27-vaultwarden-securing-your-passwords</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">27</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-27-vaultwarden-securing-your-passwords.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Secure in their logins, the guys search around to find their space within text editors alongside many new updates.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-27-vaultwarden-securing-your-passwords">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:15:44 - News/Community Updates</p><p>00:23:06 - OurCompose Developments</p><p>00:26:32 - Integration Discussion - Bitwarden - Application Interface</p><p>00:56:44 - Grab Bag - Text Editor Features</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:15:44" title="News/Community Updates" /><psc:chapter start="00:23:06" title="OurCompose Developments" /><psc:chapter start="00:26:32" title="Integration Discussion - Bitwarden - Application Interface" /><psc:chapter start="00:56:44" title="Grab Bag - Text Editor Features" /></psc:chapters>
+    </item><item>
+      <itunes:title>Managing Users</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Managing Users</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-26-managing-users</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">26</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-26-managing-users.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>The guys go over how to manage users without arousing resentment, or starting any more datacenter fires.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-26-managing-users">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:07:30 - News/Community Updates</p><p>00:20:34 - OurCompose Developments</p><p>00:23:28 - Integration Discussion - Nextcloud - User Management</p><p>00:58:20 - Grab Bag - Be A Leader: How To Change People Without Giving Offense or Arousing Resentment</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:07:30" title="News/Community Updates" /><psc:chapter start="00:20:34" title="OurCompose Developments" /><psc:chapter start="00:23:28" title="Integration Discussion - Nextcloud - User Management" /><psc:chapter start="00:58:20" title="Grab Bag - Be A Leader: How To Change People Without Giving Offense or Arousing Resentment" /></psc:chapters>
+    </item><item>
+      <itunes:title>Nextcloud Dashboard</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Nextcloud Dashboard</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-25-nextcloud-dashboard</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">25</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-25-nextcloud-dashboard.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>After a large detour, Jack and Andrew how how and why Nextcloud has gone about winning you over with their dashboard.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-25-nextcloud-dashboard">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:22:29 - News/Community Updates</p><p>00:22:30 - OurCompose Developments</p><p>00:32:00 - Integration Discussion - Nextcloud - Dashboard</p><p>00:46:15 - Grab Bag - How to Win People To Your Way of Thinking</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:22:29" title="News/Community Updates" /><psc:chapter start="00:22:30" title="OurCompose Developments" /><psc:chapter start="00:32:00" title="Integration Discussion - Nextcloud - Dashboard" /><psc:chapter start="00:46:15" title="Grab Bag - How to Win People To Your Way of Thinking" /></psc:chapters>
+    </item><item>
+      <itunes:title>Rubber Hose Attack Vector</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Rubber Hose Attack Vector</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-24-rubber-hose-attack-vector</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">24</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-24-rubber-hose-attack-vector.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Caring for people is a must, whether it's caring where their telemetry goes, what crypto they use, or encryption they use for their files.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-24-rubber-hose-attack-vector">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:30:30 - News/Community Updates</p><p>00:33:15 - OurCompose Developments</p><p>00:38:15 - Integration Discussion - Nextcloud - Encryption</p><p>01:23:45 - Grab Bag - Ways to Make People Like You</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:30:30" title="News/Community Updates" /><psc:chapter start="00:33:15" title="OurCompose Developments" /><psc:chapter start="00:38:15" title="Integration Discussion - Nextcloud - Encryption" /><psc:chapter start="01:23:45" title="Grab Bag - Ways to Make People Like You" /></psc:chapters>
+    </item><item>
+      <itunes:title>Nextcloud Hash of Third Party Apps</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Nextcloud Hash of Third Party Apps</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-23-nextcloud-hash-of-third-party-apps</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">23</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-23-nextcloud-hash-of-third-party-apps.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Our fearless digital experts ramp up production on the OurCompose product, and discuss the foundations of how to win friends and influence people.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-23-nextcloud-hash-of-third-party-apps">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:24:30 - News/Community Updates</p><p>00:28:50 - OurCompose Developments</p><p>00:35:50 - Integration Discussion - Nextcloud - Third Party Apps</p><p>00:51:30 - Grab Bag - Part One: Fundamental Techniques in Handling People</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:24:30" title="News/Community Updates" /><psc:chapter start="00:28:50" title="OurCompose Developments" /><psc:chapter start="00:35:50" title="Integration Discussion - Nextcloud - Third Party Apps" /><psc:chapter start="00:51:30" title="Grab Bag - Part One: Fundamental Techniques in Handling People" /></psc:chapters>
+    </item><item>
+      <itunes:title>Taking This Nextcloud Show On The Road</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Taking This Nextcloud Show On The Road</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-22-taking-this-nextcloud-show-on-the-road</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">22</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-22-taking-this-nextcloud-show-on-the-road.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>With the best audio quality they can muster, Jack and Andrew prevent accidently deleting files with Nextcloud, and determine how to ask your mom the right questions about Open Source Software.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-22-taking-this-nextcloud-show-on-the-road">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:16:00 - News/Community Updates</p><p>00:28:00 - OurCompose Developments</p><p>00:33:00 - Integration Discussion - Nextcloud - Mobile</p><p>00:51:00 - Grab Bag - The Mom Test</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:16:00" title="News/Community Updates" /><psc:chapter start="00:28:00" title="OurCompose Developments" /><psc:chapter start="00:33:00" title="Integration Discussion - Nextcloud - Mobile" /><psc:chapter start="00:51:00" title="Grab Bag - The Mom Test" /></psc:chapters>
+    </item><item>
+      <itunes:title>Group What Groupware</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Group What Groupware</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-21-group-what-groupware</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">21</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-21-group-what-groupware.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Jack goes over Ruby gems and Nextcloud, while Andrew takes a closer look at why it's necessary to care about other people's feelings.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-21-group-what-groupware">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:31:38 - News/Community Updates</p><p>00:38:00 - OurCompose Developments</p><p>00:38:42 - Integration Discussion - Nextcloud - Groupware</p><p>00:55:20 - Grab Bag - Primal Leadership</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:31:38" title="News/Community Updates" /><psc:chapter start="00:38:00" title="OurCompose Developments" /><psc:chapter start="00:38:42" title="Integration Discussion - Nextcloud - Groupware" /><psc:chapter start="00:55:20" title="Grab Bag - Primal Leadership" /></psc:chapters>
+    </item><item>
+      <itunes:title>It Feels Like the First Cloud</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>It Feels Like the First Cloud</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-20-it-feels-like-the-first-cloud</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">20</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-20-it-feels-like-the-first-cloud.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Andrew learns that the V in MVC does not stand for &quot;Vanilla&quot;, and that fires can melt both ice cream and datacenters, but not if you've got backups!</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-20-it-feels-like-the-first-cloud">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:19:55 - OurCompose Developments</p><p>00:29:21 - Integration Discussion - Nextcloud - Built-In Apps and Settings</p><p>01:04:43 - Grab Bag - Rails and MVC Frameworks</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:19:55" title="OurCompose Developments" /><psc:chapter start="00:29:21" title="Integration Discussion - Nextcloud - Built-In Apps and Settings" /><psc:chapter start="01:04:43" title="Grab Bag - Rails and MVC Frameworks" /></psc:chapters>
+    </item><item>
+      <itunes:title>Next Application NextCloud</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Next Application NextCloud</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-19-next-application-nextcloud</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">19</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-19-next-application-nextcloud.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Jack has a next-level meeting with Andrew about kicking off the Nextcloud track, after learning they've got Zoom Fatigue from being night owls</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-19-next-application-nextcloud">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:22:10 - News/Community Updates</p><p>00:43:50 - OurCompose Developments</p><p>00:44:30 - Integration Discussion - Nextcloud - Overview</p><p>01:05:45 - Grab Bag - What the Heck is EOS?</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:22:10" title="News/Community Updates" /><psc:chapter start="00:43:50" title="OurCompose Developments" /><psc:chapter start="00:44:30" title="Integration Discussion - Nextcloud - Overview" /><psc:chapter start="01:05:45" title="Grab Bag - What the Heck is EOS?" /></psc:chapters>
+    </item><item>
+      <itunes:title>What The FAQ Kanboard</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>What The FAQ Kanboard</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-18-what-the-faq-kanboard</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">18</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-18-what-the-faq-kanboard.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>As we wrap up Kanboard, we stop to showcase our browser plugins and more!</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-18-what-the-faq-kanboard">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:00:50 - News/Community Updates</p><p>00:08:15 - OurCompose Developments</p><p>00:13:15 - Integration Discussion - Kanboard - Frequently Asked Questions</p><p>00:38:00 - Grab Bag - Browser Plugins</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:00:50" title="News/Community Updates" /><psc:chapter start="00:08:15" title="OurCompose Developments" /><psc:chapter start="00:13:15" title="Integration Discussion - Kanboard - Frequently Asked Questions" /><psc:chapter start="00:38:00" title="Grab Bag - Browser Plugins" /></psc:chapters>
+    </item><item>
+      <itunes:title>Call for Kanboard Questions</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Call for Kanboard Questions</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-17-call-for-kanboard-questions</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">17</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-17-call-for-kanboard-questions.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Hello everyone! This upcoming episode we will be trying out doing a recap on Kanboard that involves us answering questions from you, our audience!</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-17-call-for-kanboard-questions">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Call for Questions</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Call for Questions" /></psc:chapters>
+    </item><item>
+      <itunes:title>Neapolitan Board Views</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Neapolitan Board Views</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-16-neapolitan-board-views</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">16</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-16-neapolitan-board-views.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Andrew and Jack are back at it talking about public companies, how to make ChatOps work, and even more Kanboard customization.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-16-neapolitan-board-views">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:07:30 - News/Community Updates</p><p>00:25:00 - OurCompose Developments</p><p>00:36:10 - Integration Discussion - Kanboard - Dashboard/Board View Customization</p><p>00:54:55 - Grab Bag - ChatOps</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:07:30" title="News/Community Updates" /><psc:chapter start="00:25:00" title="OurCompose Developments" /><psc:chapter start="00:36:10" title="Integration Discussion - Kanboard - Dashboard/Board View Customization" /><psc:chapter start="00:54:55" title="Grab Bag - ChatOps" /></psc:chapters>
+    </item><item>
+      <itunes:title>Yet Another Kanboard Episode</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Yet Another Kanboard Episode</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-15-yet-another-kanboard-episode</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">15</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-15-yet-another-kanboard-episode.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Working on their development chops, Jack and Andrew discuss ditching Locals, and the additional content that we will be putting out for OurCompose.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-15-yet-another-kanboard-episode">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:01:52 - News/Community Updates</p><p>00:21:52 - OurCompose Developments</p><p>00:33:07 - Integration Discussion - Kanboard - Plugins</p><p>00:55:46 - Grab Bag - On Exercising, or I Swear We're Not Meatheads</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:01:52" title="News/Community Updates" /><psc:chapter start="00:21:52" title="OurCompose Developments" /><psc:chapter start="00:33:07" title="Integration Discussion - Kanboard - Plugins" /><psc:chapter start="00:55:46" title="Grab Bag - On Exercising, or I Swear We're Not Meatheads" /></psc:chapters>
+    </item><item>
+      <itunes:title>Automatic Repeatable Boards</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Automatic Repeatable Boards</title>
+      <link>https://ourcompose.com/jekyll/episodes/2021/episode-14-automatic-repeatable-boards</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">14</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-14-automatic-repeatable-boards.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Automation is the name of this game! Kanboard is no exception, and gets a fair going-over by Andrew, which Jack discusses how to get better at, well... anything.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2021/episode-14-automatic-repeatable-boards">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:09:10 - News/Community Updates</p><p>00:25:10 - OurCompose Developments</p><p>00:31:40 - Integration Discussion - Kanboard - Reocurring Tasks and Automated Actions</p><p>00:52:00 - Grab Bag - The Five-Stage Model of Adult Skill Acquisition</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:09:10" title="News/Community Updates" /><psc:chapter start="00:25:10" title="OurCompose Developments" /><psc:chapter start="00:31:40" title="Integration Discussion - Kanboard - Reocurring Tasks and Automated Actions" /><psc:chapter start="00:52:00" title="Grab Bag - The Five-Stage Model of Adult Skill Acquisition" /></psc:chapters>
+    </item><item>
+      <itunes:title>Staring at Boards All Day</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Staring at Boards All Day</title>
+      <link>https://ourcompose.com/jekyll/episodes/2020/episode-13-staring-at-boards-all-day</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">13</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-13-staring-at-boards-all-day.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>More Python jabs are thrown, more updates discussed as the boys get deeper into Kanboard. They end with a quick trip down to discuss Bitcoin fundamentals.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2020/episode-13-staring-at-boards-all-day">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:05:21 - News/Community Updates</p><p>00:24:26 - OurCompose Developments</p><p>00:25:42 - Integration Discussion - Kanboard - Everyday Usage</p><p>00:43:30 - Grab Bag - The Basics of Bitcoin - Creating an Elevator Pitch about Bitcoin Fundamentals</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:05:21" title="News/Community Updates" /><psc:chapter start="00:24:26" title="OurCompose Developments" /><psc:chapter start="00:25:42" title="Integration Discussion - Kanboard - Everyday Usage" /><psc:chapter start="00:43:30" title="Grab Bag - The Basics of Bitcoin - Creating an Elevator Pitch about Bitcoin Fundamentals" /></psc:chapters>
+    </item><item>
+      <itunes:title>The Look and Feel of Kanboard</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>The Look and Feel of Kanboard</title>
+      <link>https://ourcompose.com/jekyll/episodes/2020/episode-12-the-look-and-feel-of-kanboard</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">12</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-12-the-look-and-feel-of-kanboard.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Andrew takes Python shots seriously, some applications get new versions, Andrew starts to dive into Kanboard in earnest, and Jack starts hypothetizing about what marketing that doesn't suck would look like.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2020/episode-12-the-look-and-feel-of-kanboard">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:04:25 - News/Community Updates</p><p>00:18:33 - OurCompose Developments</p><p>00:21:11 - Integration Discussion - Kanboard - Application Interface</p><p>00:51:35 - Grab Bag - Permission Marketing</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:04:25" title="News/Community Updates" /><psc:chapter start="00:18:33" title="OurCompose Developments" /><psc:chapter start="00:21:11" title="Integration Discussion - Kanboard - Application Interface" /><psc:chapter start="00:51:35" title="Grab Bag - Permission Marketing" /></psc:chapters>
+    </item><item>
+      <itunes:title>Minimal Viable Portal</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Minimal Viable Portal</title>
+      <link>https://ourcompose.com/jekyll/episodes/2020/episode-11-minimal-viable-portal</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">11</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-11-minimal-viable-portal.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>The boys take shots at big tech, and chat about more homegrown tech, and wrap it up with some philosophy about the software development lifecycle.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2020/episode-11-minimal-viable-portal">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:10:36 - News/Community Updates</p><p>00:25:25 - OurCompose Developments</p><p>00:26:35 - Integration Discussion - Portal - Overview</p><p>00:34:58 - Grab Bag - The Lean Startup</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:10:36" title="News/Community Updates" /><psc:chapter start="00:25:25" title="OurCompose Developments" /><psc:chapter start="00:26:35" title="Integration Discussion - Portal - Overview" /><psc:chapter start="00:34:58" title="Grab Bag - The Lean Startup" /></psc:chapters>
+    </item><item>
+      <itunes:title>CommandCenter, OurCompose Style</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>CommandCenter, OurCompose Style</title>
+      <link>https://ourcompose.com/jekyll/episodes/2020/episode-10-commandcenter-ourcompose-style</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">10</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-10-commandcenter-ourcompose-style.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Exhaused after a lot of Alpha prep and hard work, Jack kicks off the relaxation by talking about his home-grown CommandCenter, and Andrew has nothing better to do than talk about what he's talking into.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2020/episode-10-commandcenter-ourcompose-style">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:02:50 - News/Community Updates</p><p>00:13:30 - OurCompose Developments</p><p>00:20:42 - Integration Discussion - CommandCenter - Overview</p><p>00:32:21 - Grab Bag - A/V Rigs</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:02:50" title="News/Community Updates" /><psc:chapter start="00:13:30" title="OurCompose Developments" /><psc:chapter start="00:20:42" title="Integration Discussion - CommandCenter - Overview" /><psc:chapter start="00:32:21" title="Grab Bag - A/V Rigs" /></psc:chapters>
+    </item><item>
+      <itunes:title>Wordpress, Thirty-Something Percent of Internet Sites</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Wordpress, Thirty-Something Percent of Internet Sites</title>
+      <link>https://ourcompose.com/jekyll/episodes/2020/episode-9-wordpress-thirty-something-percent-of-internet-sites</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">9</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-9-wordpress-thirty-something-percent-of-internet-sites.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Jack goves over Wordpress for whoever hasn't been on the internet for the past two decades, and Andrew reherses his talk about Ansible for Ohio Linuxfest.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2020/episode-9-wordpress-thirty-something-percent-of-internet-sites">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:00:57 - News/Community Updates</p><p>00:14:00 - OurCompose Developments</p><p>00:14:20 - Integration Discussion - Wordpress - Overview</p><p>00:27:21 - Grab Bag - Delta Ansible: Keeping Up With Changes and Deprecations</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:00:57" title="News/Community Updates" /><psc:chapter start="00:14:00" title="OurCompose Developments" /><psc:chapter start="00:14:20" title="Integration Discussion - Wordpress - Overview" /><psc:chapter start="00:27:21" title="Grab Bag - Delta Ansible: Keeping Up With Changes and Deprecations" /></psc:chapters>
+    </item><item>
+      <itunes:title>Rundeck, The Automation Frontend</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Rundeck, The Automation Frontend</title>
+      <link>https://ourcompose.com/jekyll/episodes/2020/episode-8-rundeck-the-automation-frontend</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">8</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-8-rundeck-the-automation-frontend.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>After unearthing a hidden gem about last episode's Firefly-III topic, Andrew gushes about their Rundeck implementation, and Jack goes into what DevOps _really_ means.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2020/episode-8-rundeck-the-automation-frontend">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:08:40 - News/Community Updates</p><p>00:19:55 - OurCompose Developments</p><p>00:21:28 - Integration Discussion - Rundeck - Overview</p><p>00:50:03 - Grab Bag - DevOps</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:08:40" title="News/Community Updates" /><psc:chapter start="00:19:55" title="OurCompose Developments" /><psc:chapter start="00:21:28" title="Integration Discussion - Rundeck - Overview" /><psc:chapter start="00:50:03" title="Grab Bag - DevOps" /></psc:chapters>
+    </item><item>
+      <itunes:title>Firefly-III for Personal Finances</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Firefly-III for Personal Finances</title>
+      <link>https://ourcompose.com/jekyll/episodes/2020/episode-7-firefly-iii-for-personal-finances</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">7</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-7-firefly-iii-for-personal-finances.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>The guys light up talking about Firefly-III, and then take a deep dive into the four freedoms.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2020/episode-7-firefly-iii-for-personal-finances">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:08:29 - News/Community Updates</p><p>00:09:29 - OurCompose Developments</p><p>00:15:23 - Integration Discussion - Firefly-III - Overview</p><p>00:36:30 - Grab Bag - Free as in...</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:08:29" title="News/Community Updates" /><psc:chapter start="00:09:29" title="OurCompose Developments" /><psc:chapter start="00:15:23" title="Integration Discussion - Firefly-III - Overview" /><psc:chapter start="00:36:30" title="Grab Bag - Free as in..." /></psc:chapters>
+    </item><item>
+      <itunes:title>Static Jekyll For Your Site</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Static Jekyll For Your Site</title>
+      <link>https://ourcompose.com/jekyll/episodes/2020/episode-6-static-jekyll-for-your-site</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">6</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-6-static-jekyll-for-your-site.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>There's a lot going on in the community this time! Introducing a couple of platforms, Jack provides some insight into payment processors, and Andrew goes over Jekyll.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2020/episode-6-static-jekyll-for-your-site">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:00:29 - News/Community Updates</p><p>00:08:30 - OurCompose Developments</p><p>00:15:04 - Integration Discussion - Jekyll - Overview</p><p>00:43:35 - Grab Bag - Stripe at Ourcompose</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:00:29" title="News/Community Updates" /><psc:chapter start="00:08:30" title="OurCompose Developments" /><psc:chapter start="00:15:04" title="Integration Discussion - Jekyll - Overview" /><psc:chapter start="00:43:35" title="Grab Bag - Stripe at Ourcompose" /></psc:chapters>
+    </item><item>
+      <itunes:title>Bitwarden, A Secure Place for Passwords</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Bitwarden, A Secure Place for Passwords</title>
+      <link>https://ourcompose.com/jekyll/episodes/2020/episode-5-bitwarden-a-secure-place-for-passwords</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">5</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-5-bitwarden-a-secure-place-for-passwords.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>A lot happened in the News! Andrew and Jack go over it, and introduce Bitwarden as a password manager, and touch on the book What's Best Next?!</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2020/episode-5-bitwarden-a-secure-place-for-passwords">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:03:10 - News/Community Updates</p><p>00:18:00 - OurCompose Developments</p><p>00:21:23 - Integration Discussion - Bitwarden - Overview</p><p>00:39:37 - Grab Bag - What's Best Next</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:03:10" title="News/Community Updates" /><psc:chapter start="00:18:00" title="OurCompose Developments" /><psc:chapter start="00:21:23" title="Integration Discussion - Bitwarden - Overview" /><psc:chapter start="00:39:37" title="Grab Bag - What's Best Next" /></psc:chapters>
+    </item><item>
+      <itunes:title>Boards, Boards Everywhere</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Boards, Boards Everywhere</title>
+      <link>https://ourcompose.com/jekyll/episodes/2020/episode-4-boards-boards-everywhere</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">4</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-4-boards-boards-everywhere.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Andrew and Jack start to discuss Nextcloud, and wrap up their discussio on Docker.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2020/episode-4-boards-boards-everywhere">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:00:23 - News/Community Updates</p><p>00:08:40 - OurCompose Developments</p><p>00:16:30 - Integration Discussion - Kanboard - Initial Configuration - Nextcloud - Deck</p><p>00:30:37 - Grab Bag - Docker</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:00:23" title="News/Community Updates" /><psc:chapter start="00:08:40" title="OurCompose Developments" /><psc:chapter start="00:16:30" title="Integration Discussion - Kanboard - Initial Configuration - Nextcloud - Deck" /><psc:chapter start="00:30:37" title="Grab Bag - Docker" /></psc:chapters>
+    </item><item>
+      <itunes:title>Kanboard, a Kanban Board</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Kanboard, a Kanban Board</title>
+      <link>https://ourcompose.com/jekyll/episodes/2020/episode-3-kanboard-a-kanban-board</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">3</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-3-kanboard-a-kanban-board.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>A gentle introduction to the versitile Kanboard is prefaced by a slew of news items from Andrew. Jack rounds out the show with part 1 of 2 on how we work with containers.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2020/episode-3-kanboard-a-kanban-board">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:00:45 - News/Community Updates</p><p>00:06:26 - OurCompose Developments</p><p>00:11:30 - Integration Discussion - Kanboard - Overview</p><p>00:32:35 - Grab Bag - Intro to Containers</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:00:45" title="News/Community Updates" /><psc:chapter start="00:06:26" title="OurCompose Developments" /><psc:chapter start="00:11:30" title="Integration Discussion - Kanboard - Overview" /><psc:chapter start="00:32:35" title="Grab Bag - Intro to Containers" /></psc:chapters>
+    </item><item>
+      <itunes:title>Stacking Books</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Stacking Books</title>
+      <link>https://ourcompose.com/jekyll/episodes/2020/episode-2-stacking-books</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">2</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-2-stacking-books.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>What if you had a bookshelf on your computer? Jack has the answer, and Andrew goes over Web3 Tech.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2020/episode-2-stacking-books">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:01:18 - News/Community Updates</p><p>00:07:44 - OurCompose Developments</p><p>00:09:25 - Integration Discussion - Bookstack - Overview</p><p>00:19:11 - Grab Bag - Web3 Tech</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:01:18" title="News/Community Updates" /><psc:chapter start="00:07:44" title="OurCompose Developments" /><psc:chapter start="00:09:25" title="Integration Discussion - Bookstack - Overview" /><psc:chapter start="00:19:11" title="Grab Bag - Web3 Tech" /></psc:chapters>
+    </item><item>
+      <itunes:title>Shebang</itunes:title>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <title>Shebang</title>
+      <link>https://ourcompose.com/jekyll/episodes/2020/episode-1-shebang</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">1</guid>
+      <enclosure url="https://ourcompose.com/jekyll//assets/audio/episode-1-shebang.mp3" type="audio/mpeg" length='1'/>
+      <description>
+        <![CDATA[
+          <h4>Jack and Andrew come outta the gate swinging for the fences! Nextcloud, and what working from home mean to us.</h4>
+          <p><a href="https://ourcompose.com/jekyll/episodes/2020/episode-1-shebang">View full show notes from this episode</a></p>
+          <h3>Show Chapters:</h3><p>00:00:00 - Introduction</p><p>00:06:49 - News/Community Updates</p><p>00:14:40 - OurCompose Developments</p><p>00:17:05 - Integration Discussion - Nextcloud - Overview</p><p>00:33:00 - Grab Bag - How Working from Home Works</p><h2><a href="https://ourcompose.com/">Sign up for the OurCompose mailing list to be alerted to new episodes and more!</a></h2>
+          <p><a href="https://ourcompose.com/jekyll/donate">Donate Directly to the Podcast</a></p>
+          <p><a href="https://reddit.com/r/ourcompose">Discuss the Episode on Reddit</a></p>
+          <h4><a href="https://ourcompose.com/jekyll/contact/">Contact us directly!</a></p>
+        ]]>
+      </description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters"><psc:chapter start="00:00:00" title="Introduction" /><psc:chapter start="00:06:49" title="News/Community Updates" /><psc:chapter start="00:14:40" title="OurCompose Developments" /><psc:chapter start="00:17:05" title="Integration Discussion - Nextcloud - Overview" /><psc:chapter start="00:33:00" title="Grab Bag - How Working from Home Works" /></psc:chapters>
+    </item></channel>
+</rss>
