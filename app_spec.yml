@@ -1,0 +1,12 @@
+name: ourcomposecast
+region: nyc
+static_sites:
+- environment_slug: html
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: ourcomposebot/ourcompose.com-jekyll
+  name: ourcompose-com-jekyll
+  routes:
+  - path: /jekyll
+  source_dir: /
